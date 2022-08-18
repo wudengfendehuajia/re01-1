@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>个人名片介绍</title>
+  </head>
+  <body style="margin: 0">
+    <div style="backgroud-color: #f1f1f1; text-align: center; padding: 40px">
+      <img
+        alt="曾祥林"
+        src="https://s1.328888.xyz/2022/08/18/3UCKm.jpg"
+        width="150px"
+        height="170px"
+        />
+    </div>
+    <div
+      style="max-width: 760px; margin: 30px auto; padding: 15px line-height=1.7"
+       >
+      <p>1.毕业于培贤国际职业学院，工作单位为小员工</p>
+      <p>2.高效率上班精神百倍，合理的摸鱼调整精神</p>
+      <p>3.正在通过自己的努力去实现未来更好的生活</p>
+      <p>4.个人联系方式：15343519735</p>
+    </div>
+    <div
+      style="
+        background-color: #f1f1f1;
+        text-align: center;
+        padding: 40px;
+        font-size: 15px;
+         "
+         >
+      <p>谢谢大家的观看</p>
+      <p>后续将会不断完善自身名片信息</p>
+    </div>
+  </body>
+</html>
